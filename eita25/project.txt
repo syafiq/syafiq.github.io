@@ -4,12 +4,15 @@ Please consider using canvas's discussion page to ask questions, as usually most
 
 Office Hours
 
+Due to current circumstances, there will be no face-to-face office hours. Instead, you can come to my virtual room at the following specified time:
 Office days: Mondays: xx-xx, Wednesdays: xx-xx 
-Office number: Zoom Link will be provided here
+Room: Zoom Link will be provided here
+
+Before you ask questions, make sure you understand what your problem is. Throwing a question without really understand the context will just wasting both of our time.
 
 There are 2 projects. 
 
-Project
+Project 1
 [Update Jan 30, 2020] Seems like there is known issue regarding TLS version missmatch between client and server if you use certain version of Java. If you are affected by this, try to use the following version :
 
 $ java -version
