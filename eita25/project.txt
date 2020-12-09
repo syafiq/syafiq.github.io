@@ -12,15 +12,11 @@ You will be served on a per-group and firt-come-first-served basis. You will wai
 
 Resource
 
-Each group will have an access to a virtual machine in the cloud. Instructions on how to access your VM can be seen here. 
+Each group will have an access to a virtual machine in the cloud. Instructions on how to access your VM can be seen here. The software inside the VM has been adapted and verified to be able to run the code in this project. If, by any chance, you want to run the code in your own machine, it is your responsibility to adapt any changes in regards to the requirement, i.e. java versios, etc. 
 
 There are 2 projects. 
 
 Project 1
-[Update Jan 30, 2020] Seems like there is known issue regarding TLS version missmatch between client and server if you use certain version of Java. If you are affected by this, try to use the following version :
-
-$ java -version
-openjdk version "1.8.0_242"
 
 This project relates to topics discussed on lecture 3. After that lecture you should be able to understand the project.
 
