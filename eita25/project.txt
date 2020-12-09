@@ -8,7 +8,11 @@ Due to current circumstances, there will be no face-to-face office hours. Instea
 Office days: Mondays: xx-xx, Wednesdays: xx-xx 
 Room: Zoom Link will be provided here
 
-Before you ask questions, make sure you understand what your problem is. Throwing a question without really understand the context will just wasting both of our time.
+You will be served on a per-group and firt-come-first-served basis. You will wait in the zoom waiting room if other groups is inside. Before you ask questions, try to at least understand what your problem is. Throwing a question without really understand the context will just wasting both of our time.
+
+Resource
+
+Each group will have an access to a virtual machine in the cloud. Instructions on how to access your VM can be seen here. 
 
 There are 2 projects. 
 
