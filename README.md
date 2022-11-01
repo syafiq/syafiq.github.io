@@ -1,6 +1,6 @@
 ## About
 
-Hi! My name is Syafiq Al Atiiq. I am a 4th year PhD student at [Lund University](https://www.lunduniversity.lu.se/), Sweden. My research involves the intersection between Denial of Service, Packet Classification, and Machine Learning.
+Hi! My name is Syafiq Al Atiiq. I am a 4th year PhD student at [Lund University](https://www.lunduniversity.lu.se/), supervised by [Christian Gehrmann](https://link.springer.com/chapter/10.1007/978-3-030-91625-1_4). My research resides at the intersection between Distributed Denial of Service (DDoS), Packet Classification, and Machine Learning.
 
 How to reach me? [LinkedIn](https://www.linkedin.com/in/atiiq/), [Twitter](https://twitter.com/0xSYFQ), [Email](mailto:syafiq_al.atiiq@eit.lth.se).
 
@@ -14,4 +14,4 @@ I am a teaching assistant at the following courses:
 
 - [SARDOS: Self-Adaptive Reaction Against Denial of Service in the Internet of Things](https://ieeexplore.ieee.org/abstract/document/8554819) - IoTSMS'18 (Best Paper Award)
 - [CLI-DOS: Collaborative Counteraction against Denial of Service in the Internet of Things](https://ieeexplore.ieee.org/abstract/document/9156207) - Percom SPT-IoT '20
-- [X-Pro: Distributed XDP Proxies Against Botnets of Things](X-Pro: Distributed XDP Proxies Against Botnets of Things) - Nordsec '21
+- [X-Pro: Distributed XDP Proxies Against Botnets of Things](https://link.springer.com/chapter/10.1007/978-3-030-91625-1_4) - Nordsec '21
