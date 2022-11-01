@@ -9,7 +9,7 @@ How to reach me? [LinkedIn](https://www.linkedin.com/in/atiiq/), [Twitter](https
 ## Teaching
 
 I am a teaching assistant at the following courses:
-- [Computer Security (EITA25)](https://www.eit.lth.se/course/eita25) -> project module
+- [Computer Security (EITA25)](https://kurser.lth.se/kursplaner/21_22%20eng/EITA25.html) -> project module
 - [Secure Systems Engineering (EITP20)](https://kurser.lth.se/kursplaner/21_22%20eng/EITP20.html) -> penetration testing module
 
 ## Publications
