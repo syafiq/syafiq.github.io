@@ -12,3 +12,6 @@ I am a teaching assistant at the following courses:
 
 ## Publications
 
+- [SARDOS: Self-Adaptive Reaction Against Denial of Service in the Internet of Things](https://ieeexplore.ieee.org/abstract/document/8554819) - IoTSMS'18 (Best Paper Award)
+- [CLI-DOS: Collaborative Counteraction against Denial of Service in the Internet of Things](https://ieeexplore.ieee.org/abstract/document/9156207) - Percom SPT-IoT '20
+- [X-Pro: Distributed XDP Proxies Against Botnets of Things](X-Pro: Distributed XDP Proxies Against Botnets of Things) - Nordsec '21
