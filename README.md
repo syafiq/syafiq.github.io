@@ -16,4 +16,4 @@ I am a teaching assistant at the following courses:
 - [CLI-DOS: Collaborative Counteraction against Denial of Service in the Internet of Things](https://ieeexplore.ieee.org/abstract/document/9156207) - Percom SPT-IoT '20
 - [SARDOS: Self-Adaptive Reaction Against Denial of Service in the Internet of Things](https://ieeexplore.ieee.org/abstract/document/8554819) - IoTSMS '18 (Best Paper Award)
 
-google-site-verification: googleb7737efa833c6271.html
+<!---google-site-verification: googleb7737efa833c6271.html--->
