@@ -12,7 +12,8 @@ I am a teaching assistant at the following courses:
 
 ## Publications
 
-- Attack Against Mobility Prediction in 5G Networks - TrustCom '23
+- AutoML in the Face of Adversity: Securing Mobility Predictions in NWDAF - FMEC '24
+- [Attack Against Mobility Prediction in 5G Networks](https://ieeexplore.ieee.org/abstract/document/10538840) - TrustCom '23
 - [X-Pro: Distributed XDP Proxies Against Botnets of Things](https://link.springer.com/chapter/10.1007/978-3-030-91625-1_4) - Nordsec '21
 - [CLI-DOS: Collaborative Counteraction against Denial of Service in the Internet of Things](https://ieeexplore.ieee.org/abstract/document/9156207) - Percom SPT-IoT '20
 - [SARDOS: Self-Adaptive Reaction Against Denial of Service in the Internet of Things](https://ieeexplore.ieee.org/abstract/document/8554819) - IoTSMS '18 (Best Paper Award)
