@@ -15,7 +15,7 @@ I am a teaching assistant in the following courses:
 - [From Generalist to Specialist: Exploring CWE-Specific Vulnerability Detection](https://arxiv.org/abs/2408.02329) - ArXiv
 - [Demystifying AMD SEV Performance Penalty for NFV Deployment](https://arxiv.org/abs/2408.02212) - ArXiv
 - [Regaining Dominance in CIDER and Lazarus](https://ieeexplore.ieee.org/document/10664436) - [IEEE Access](https://ieeeaccess.ieee.org/)
-- AutoML in the Face of Adversity: Securing Mobility Predictions in NWDAF - [FMEC '24](https://emergingtechnet.org/FMEC2024/)
+- [AutoML in the Face of Adversity: Securing Mobility Predictions in NWDAF](https://ieeexplore.ieee.org/document/10710314) - [FMEC '24](https://emergingtechnet.org/FMEC2024/)
 - [Attack Against Mobility Prediction in 5G Networks](https://ieeexplore.ieee.org/abstract/document/10538840) - [TrustCom '23](https://hpcn.exeter.ac.uk/trustcom2023/)
 - [X-Pro: Distributed XDP Proxies Against Botnets of Things](https://link.springer.com/chapter/10.1007/978-3-030-91625-1_4) - [Nordsec '21](https://events.tuni.fi/nordsec2021/)
 - [CLI-DOS: Collaborative Counteraction against Denial of Service in the Internet of Things](https://ieeexplore.ieee.org/abstract/document/9156207) - [Percom SPT-IoT '20](https://staff.itee.uq.edu.au/jaga/proceedings/percomworkshops2020/spt-iot2020.html)
