@@ -8,7 +8,7 @@ How to reach me? [Email](mailto:syafiq@vyprai.net), [LinkedIn](https://www.linke
 
 ## Teaching
 
-I am a teaching assistant in the following courses:
+I ~~am~~ was a teaching assistant to the following courses:
 - [Computer Security (EITA25)](https://kurser.lth.se/kursplaner/21_22%20eng/EITA25.html) -> project module
 - [Secure Systems Engineering (EITP20)](https://kurser.lth.se/kursplaner/21_22%20eng/EITP20.html) -> penetration testing module
 
