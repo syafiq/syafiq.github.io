@@ -14,6 +14,7 @@ I ~~am~~ was a teaching assistant to the following courses:
 
 ## Publications
 
+- [Vulnerability Detection in Popular Programming Languages with Language Models](https://arxiv.org/abs/2412.15905) - ArXiv
 - [From Generalist to Specialist: Exploring CWE-Specific Vulnerability Detection](https://arxiv.org/abs/2408.02329) - ArXiv
 - [Demystifying AMD SEV Performance Penalty for NFV Deployment](https://arxiv.org/abs/2408.02212) - [ICNCC '24](https://www.icncc.org/index.html)
 - [Regaining Dominance in CIDER and Lazarus](https://ieeexplore.ieee.org/document/10664436) - [IEEE Access](https://ieeeaccess.ieee.org/)
