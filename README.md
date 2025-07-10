@@ -16,7 +16,7 @@ I ~~am~~ was a teaching assistant to the following courses:
 
 - [Vulnerability Detection in Popular Programming Languages with Language Models](https://arxiv.org/abs/2412.15905) - ArXiv
 - [From Generalist to Specialist: Exploring CWE-Specific Vulnerability Detection](https://arxiv.org/abs/2408.02329) - ArXiv
-- [Demystifying AMD SEV Performance Penalty for NFV Deployment](https://arxiv.org/abs/2408.02212) - [ICNCC '24](https://www.icncc.org/index.html)
+- [Demystifying AMD SEV Performance Penalty for NFV Deployment](https://dl.acm.org/doi/10.1145/3711650.3711651) - [ICNCC '24](https://www.icncc.org/index.html)
 - [Regaining Dominance in CIDER and Lazarus](https://ieeexplore.ieee.org/document/10664436) - [IEEE Access](https://ieeeaccess.ieee.org/)
 - [AutoML in the Face of Adversity: Securing Mobility Predictions in NWDAF](https://ieeexplore.ieee.org/document/10710314) - [FMEC '24](https://emergingtechnet.org/FMEC2024/)
 - [Attack Against Mobility Prediction in 5G Networks](https://ieeexplore.ieee.org/abstract/document/10538840) - [TrustCom '23](https://hpcn.exeter.ac.uk/trustcom2023/)
