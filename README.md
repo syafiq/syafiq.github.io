@@ -2,9 +2,9 @@
 
 Hi! My name is Syafiq Al Atiiq. I obtained my PhD from [Lund University](https://www.lunduniversity.lu.se/), under the supervision of [Christian Gehrmann](https://portal.research.lu.se/en/persons/christian-gehrmann) in 2025. My research resides at the intersection between Distributed Denial of Service (DDoS), Packet Classification, and Machine Learning.
 
-Currently, I am building [VyPr AI](https://vyprai.net/), the next-generation vulnerability detection system.
+Currently, I am building [VyPr AI](https://vyprsec.ai/), the next-generation vulnerability detection system.
 
-How to reach me? [Email](mailto:syafiq@vyprai.net), [LinkedIn](https://www.linkedin.com/in/atiiq/), [Twitter](https://twitter.com/0xSYFQ).
+How to reach me? [Email](mailto:syafiq@vyprsec.ai), [LinkedIn](https://www.linkedin.com/in/atiiq/), [Twitter](https://twitter.com/0xSYFQ).
 
 ## Teaching
 
