@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: syafiq.github.io
+Token: d323fd0e1d7d968b087c172a0d6f7aceddcc65634cdbe45a20edf11210aaf672
