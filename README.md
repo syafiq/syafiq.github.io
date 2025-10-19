@@ -14,6 +14,7 @@ I ~~am~~ was a teaching assistant to the following courses:
 
 ## Publications
 
+- [Resilient automatic model selection for mobility prediction](https://link.springer.com/article/10.1007/s10586-025-05661-x) - Cluster Computing
 - [Vulnerability Detection in Popular Programming Languages with Language Models](https://arxiv.org/abs/2412.15905) - ArXiv
 - [From Generalist to Specialist: Exploring CWE-Specific Vulnerability Detection](https://arxiv.org/abs/2408.02329) - ArXiv
 - [Demystifying AMD SEV Performance Penalty for NFV Deployment](https://dl.acm.org/doi/10.1145/3711650.3711651) - [ICNCC '24](https://www.icncc.org/index.html)
