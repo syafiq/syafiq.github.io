@@ -14,6 +14,7 @@ I ~~am~~ was a teaching assistant to the following courses:
 
 ## Publications
 
+- [Catching Common Vulnerabilities with Code Language Models](https://ieeexplore.ieee.org/document/11226499) - [SECDEV '25](https://secdev.ieee.org/2025/home/)
 - [Resilient automatic model selection for mobility prediction](https://link.springer.com/article/10.1007/s10586-025-05661-x) - [Cluster Computing](https://link.springer.com/journal/10586)
 - [Vulnerability Detection in Popular Programming Languages with Language Models](https://arxiv.org/abs/2412.15905) - ArXiv
 - [From Generalist to Specialist: Exploring CWE-Specific Vulnerability Detection](https://arxiv.org/abs/2408.02329) - ArXiv
