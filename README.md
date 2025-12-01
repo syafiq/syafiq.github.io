@@ -1,6 +1,6 @@
 ## About
 
-Hi! My name is Syafiq Al Atiiq. I obtained my PhD from [Lund University](https://www.lunduniversity.lu.se/), under the supervision of [Christian Gehrmann](https://portal.research.lu.se/en/persons/christian-gehrmann) in 2025. My research resides at the intersection between Distributed Denial of Service (DDoS), Packet Classification, and Machine Learning.
+Hi! My name is Syafiq Al Atiiq. I obtained my PhD from [Lund University](https://www.lunduniversity.lu.se/) in 2025, under the supervision of [Christian Gehrmann](https://portal.research.lu.se/en/persons/christian-gehrmann). My current research interests lie at the intersection of Software Security, Vulnerability Analysis, and Machine Learning.
 
 Currently, I am building [VyPr AI](https://vyprsec.ai/), the next-generation vulnerability detection system.
 
