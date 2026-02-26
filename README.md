@@ -1,6 +1,6 @@
 ## About
 
-Hi! My name is Syafiq Al Atiiq. I obtained my PhD from [Lund University](https://www.lunduniversity.lu.se/) in 2025, under the supervision of [Christian Gehrmann](https://portal.research.lu.se/en/persons/christian-gehrmann). My [thesis](https://lucris.lub.lu.se/ws/portalfiles/portal/243271840/Dissertation_Print_Syafiq.pdf) was funded by the [Swedish Foundation for Strategic Research (SSF)](https://strategiska.se/forskning/genomford-forskning/cyber-security-2017/projekt/9205/). My current research interests lie at the intersection of Software Security, Vulnerability Analysis, and Machine Learning.
+Hi! My name is Syafiq Al Atiiq. I obtained my PhD from [Lund University](https://www.lunduniversity.lu.se/) in 2025, under the supervision of [Christian Gehrmann](https://portal.research.lu.se/en/persons/christian-gehrmann), funded by the [Swedish Foundation for Strategic Research (SSF)](https://strategiska.se/forskning/genomford-forskning/cyber-security-2017/projekt/9205/). My [dissertation](https://lucris.lub.lu.se/ws/portalfiles/portal/243271840/Dissertation_Print_Syafiq.pdf) is available online. My current research interests lie at the intersection of Software Security, Vulnerability Analysis, and Machine Learning.
 
 Currently, I am a postdoc at Lund University and building [VyPr AI](https://vyprsec.ai/), the next-generation vulnerability detection system.
 
